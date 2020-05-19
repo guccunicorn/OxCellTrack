@@ -14,4 +14,5 @@ OxCellTrack provides in-depth information about the scaffold’s vital functions
 
 Python :snake: and MATLAB :chart_with_upwards_trend: are used as platforms for coding!
 
+Platform is tested on Mouse stem cells GOWT1 and Glioblastoma-U373 datasets that can be found on http://celltrackingchallenge.net/2d-datasets/ 
 Check out this repo and please leave comments if you are interested to hear more about the platform that is designed!
