@@ -1,8 +1,8 @@
 # OxCellTrack
 
-OxCellTrack represents a software package developed in the scope of Third Year Design Project at Department of Engineering Science, University of Oxford.
+**OxCellTrack** represents a software package developed in the scope of Third Year Design Project at Department of Engineering Science, University of Oxford.
 
-The software performs cell tracking and it is capable to deal with both transmission and fluorescence microscopy datasets.
+The software performs **cell tracking** and it is capable of dealing with both **transmission** and **fluorescence** microscopy datasets. :microscope: :raised_hands:
 
 The software provides:
 -segmentation of cells
