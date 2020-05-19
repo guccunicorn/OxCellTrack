@@ -2,7 +2,7 @@
 
 **OxCellTrack** represents a software package developed in the scope of Third Year Design Project at Department of Engineering Science, University of Oxford.:woman_student: :man_student:
 
-The software performs **cell tracking** :dna: and it is capable of dealing with both **transmission** and **fluorescence** microscopy datasets. :microscope: :raised_hands:. The softare provides
+The software (author:K.Petrovic) performs **cell tracking** :dna: and it is capable of dealing with both **transmission** and **fluorescence** microscopy datasets. :microscope: :raised_hands:. The softare provides
 -segmentation of cells
 -cell counting
 -information about cell trajectories
